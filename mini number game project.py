@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 25 20:27:43 2020
 
-@author: KIIT
-"""
 import random
 
 print("Welcome to NUMBER GUESSING GAME!!!")
