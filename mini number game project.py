@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import random
 
 print("Welcome to NUMBER GUESSING GAME!!!")
